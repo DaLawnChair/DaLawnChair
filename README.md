@@ -1,9 +1,3 @@
-## Introduction
-I’m John Zhou, an incoming 3rd year computer science and mathematics student at Queen's University (the best university in Canada, for sure!!!).
-
-## Interests:
-I’m mainly interested in computer vision applications.
-
 ## Current participation:
 ### Queens' Autodrive:
 * Queen's University's autonomous vehicle club for the SAE Autodrive Challenge III 
