@@ -1,6 +1,6 @@
 ## Current participation:
 ### Queens' Autodrive:
-* Queen's University's autonomous vehicle club for the SAE Autodrive Challenge III 
+* Queen's University's autonomous vehicle club for the SAE Autodrive Challenge II 
 * Training object detection, classification models, and integration with other systems
 
 ### QMind: 
